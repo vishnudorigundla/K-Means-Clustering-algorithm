@@ -94,9 +94,9 @@ print('The cluster group for Applicant Income 9000 and Loanamount',predicted_cla
 
 ```
 ## Output:
-![OUTPUT](/cluster/clusturing1.png)
+![OUTPUT](clusturing1.png)
 
-![GitHub Logo](/cluster/clusturing.png)
+![GitHub Logo](clusturing.png)
 
 
 
